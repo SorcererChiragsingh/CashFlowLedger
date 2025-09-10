@@ -123,7 +123,7 @@ npm install
 Create a `.env` file in the `CashFlowLedger` directory and add the following:
 
 ```env
-
+PORT=3000
 
 ``` 
 
