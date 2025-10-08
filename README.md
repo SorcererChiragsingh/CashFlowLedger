@@ -131,15 +131,16 @@ PORT=3000
 
 ```bash
 cd Project_CashFlowLedger
-npm run dev
+cd CashFlowLedger
+java run
 ```
 
 <!-- 4️⃣ **Start the Frontend Server:**5️⃣
 
 ```bash
 cd Project_CashFlowLedger
-cd ../frontend
-npm run dev
+cd CashFlowLedger
+java run
 ``` -->
 
 4️⃣ **Open the Application:**
