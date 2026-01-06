@@ -140,9 +140,16 @@ http://localhost:8080/api/v1.0/health
 
 ```bash
 cd Project_CashFlowLedger
+
+cd CashFlowLedger
+
+mvn spring-boot:run
+
 cd CashFlowLedgerWebApp
+
 npm run
 ``` 
+<!--  cd "Web Development Projects"  -->
 
 5️⃣ **Open the Application:**
 
